@@ -4,56 +4,540 @@ title: Calendar
 uid: fd1f2e20-d526-8ba1-79fb-10852609fb4b
 ---
 
-| TAG | Aktivitäten |
-| --- | --- |
-| 1 | Introduction to course  {{< br >}}Warm-up + review of conversational past (present perfect tense)  {{< br >}}Introduction to Chapter 9 dialogues |
-| 2 | Kapitel 9: Dialoge, Variationen  {{< br >}}Grammatik: Adjektivendungen (attributive adjectives), Übungen 1-7, S. 257-259  {{< br >}}Gruppenarbeit A, B, S. 270 |
-| 3 | Diskussion zum Ökologie-Video  {{< br >}}Fr. 7.2. Grammatik: Adverben, Ordinalzahlen (adverbs, ordinals), Übungen 8-12 |
-| 4 | Lyrik zum Vorlesen: _Die Lorelei 1973_ (S. 252) + _Die Lorelei_ (S. 219)  {{< br >}}Gruppenarbeit C (Bildbeschreibung), D, E, S. 270-271  {{< br >}}Einführung zum Lesestück: _Unsere Umwelt in Gefahr_ |
-| 5 | Lesestück: _Unsere Umwelt in Gefahr_  {{< br >}}Grammatikwiederholung: Adjektivendungen |
-| 6 | Vokabeltest: Kapitel 9  {{< br >}}Gruppenarbeit: Hausmüllentsorgung  {{< br >}}Einführung zu Kapitel 10: Dialoge |
-| 7 | Kapitel 10: Dialoge, Variationen  {{< br >}}Grammatik: Präteritum (simple past) – weak and strong verbs, Übungen 1-3 |
-| 8 | Lyrik zum Vorlesen von Bertolt Brecht, S. 280  {{< br >}}Grammatik: Präteritum – modals, mixed verbs, _haben, werden, als, wenn, wann_  {{< br >}}Übungen 4-9, S. 285-288; A, S. 300 (Adjektivendungen) |
-| 9 | Grammatik: Plusquamperfekt (past perfect), Zeitausdrücke + Übungen  {{< br >}}Gruppenspiel B: _Wer war ich_?  {{< br >}}Gruppenarbeit D, S. 301 |
-| 10 | Wiederholung: Präteritum, Plusquamperfekt (alle Verben)  {{< br >}}Fr, 21.2. Einführung zum Lesestück: _Besuch einer Ausstellung_ (Wortschatz) |
-| 11 | Lesestück: _Besuch einer Ausstellung historischer Plakate_ |
-| 12 | Vokabeltest: Kapitel 10  {{< br >}}Di, 25.2. Situationen aus dem Alltag: _Die Politik_  {{< br >}}Wiederholung Kapitel 9+10 |
-| 13 | Prüfung zu Kapitel 9+10 |
-| 14 | Großmutter-Geschichten erzählen |
-| 15 | _Der Froschkönig_ |
-| 16 | Kapitel 11: Dialoge, Variationen  {{< br >}}Grammatik: Reflexiv-Verben  {{< br >}}Gruppenarbeit B, S. 333 |
-| 17 | Grammatik: Dativ-Pronomen (+ body, clothing) + Übungen  {{< br >}}Situationen aus dem Alltag: _Morgenroutine_ |
-| 18 | Grammatik: Adjektive als Substantive, Adjectives and pronouns of indefinite number,  {{< br >}}_bei, die 90er  {{< br >}}_Übung E, S. 334  {{< br >}}Lyrik zum Vorlesen: _Das Lied der Deutschen  {{< br >}}_Einführung zum Lesestück_: Deutschland im europäischen Haus_ |
-| 19 | Lesestück: _Deutschland im europäischen Haus_  {{< br >}}Die Deutschlandkarte (Arbeitsblatt) |
-| 20 | Vokabeltest: Kapitel 11  {{< br >}}Diskussion: BRD heute, gestern und morgen |
-| 21 | LITERATUR EINS - Kafka: _Drei Parabeln_ |
-| 22 | Kapitel 12: Dialoge, Variationen  {{< br >}}Grammatik: Komparativform und Superlativform von Adjektiven und Adverbien |
-| 23 | Grammatik: Komparativform und Superlativform (Fortsetzung)  {{< br >}}Relativsätze (Einführung)  {{< br >}}Gruppenarbeit A, C, S. 365 |
-| 24 | Grammatik: Relativsätze (Fortsetzung)  {{< br >}}Übung E, S. 365  {{< br >}}Einführung zum Lesestück: _Zwei Denkmäler_ von Anna Seghers |
-| 25 | Lesestück: _Zwei Denkmäler_ von Anna Seghers (Fortsetzung)  {{< br >}}Grammatik: _lassen, mal,_ Tageszeiten |
-| 26 | Vokabeltest: Kapitel 12  {{< br >}}Ihre Geschichte über das Kind in der Geschichte von Anna Seghers. |
-| 27 | Wiederholung von Kapitel 11 und 12  {{< br >}}_Heimweh_ – Joseph von Eichendorff |
-| 28 | Prüfung: Kapitel 11+12 |
-| 29 | Kapitel 13: Dialoge + Variation C  {{< br >}}Grammatik: Verben + Präpositionen, _Üben wir_! Nr. 1-6, 9, 10  {{< br >}}(da-, wo- compounds) |
-| 30 | Wiederholung der Verben + Präpositionen  {{< br >}}Grammatik: Futur  {{< br >}}Schreiben: im Arbeitsheft S. 392-393, Übungen B, C, D |
-| 31 | Grammatik: _wanting x to do y  {{< br >}}_Lyrik zum Vorlesen: nachwort von Eugen Gomringer  {{< br >}}Vorbereitung auf das Lesestück: Zwei Schweizer, Wortschatz 2 |
-| 32 | Lesestück: _Zwei Schweizer stellen ihre Heimat vor  {{< br >}}_Kurswebsite: Informationen über die Schweiz  {{< br >}}Video: Interviews mit Schweizern aus zwei Kantonen |
-| 33 | _Der Erfinder_ von Peter Bichsel |
-| 34 | Vokabeltest: Kapitel 13  {{< br >}}Eigene Gedichte nach Gomringer  {{< br >}}Kapitel 14 Dialoge – Einstieg |
-| 35 | Kapitel 14: Dialoge  {{< br >}}Variationen C, D  {{< br >}}Grammatik: Konjunktiv II (general subjunctive) |
-| 36 | Grammatik: Konjunktiv II (Fortsetzung)  {{< br >}}Unreale Bedingungssätze, Wünsche, Höflichkeit, als ob + Konjunktiv II |
-| 37 | Lesestück: _Zwei Österreicher stellen sich vor_ |
-| 38 | Lyrik zum Vorlesen: _otto mops_ und andere Gedichte von Ernst Jandl  {{< br >}}Höflichkeitsform: Bestellen im Restaurant, nach Informationen fragen |
-| 39 | Vokabeltest: Kapitel 14  {{< br >}}Wiederholung: Kapitel 13+14 |
-| 40 | Prüfung: Kapitel 13+14 |
-| 41 | Kapitel 15: Dialoge  {{< br >}}Variationen: A, B, C  {{< br >}}Grammatik: Konjunktiv II Perfekt (general subjunctive – perfect tense) |
-| 42 | Grammatik: hin-, her-, Partizip Präsens als Adjektiv |
-| 43 | Grammatik: Passiv, Passiv mit Modalverben  {{< br >}}Lesestück: Ich bin das andere Kind von Zafer Senoçak |
-| 44 | Lesestück (Fortsetzung)  {{< br >}}Grammatik: Passiv (Fortsetzung) |
-| 45 | Vokabeltest: Kapitel 15  {{< br >}}Kapitel 16: Dialoge  {{< br >}}Grammatik: Impersonal Passive |
-| 46 | Grammatik: Subjective use of modals |
-| 47 | Grammatik: Extended Modifiers  {{< br >}}Wiederholung der Grammatik von Kapitel 15+16 |
-| 48 | Prüfung zu Kapitel 15+16  {{< br >}}(Grammatik, Vokabeln, Lesestück von Senoçak) |
-| 49 | _Der Jasager_ von Bertolt Brecht  {{< br >}}Grammatik: Indirekte Rede + Konjunktiv I (= Special Subjunctive)  {{< br >}}Dramatisches Lesen |
-| 50 | _Der Neinsager_ von Bertolt Brecht  {{< br >}}Grammatik: Indirekte Rede + Konjunktiv I (Fortsetzung)  {{< br >}}Dramatisches Spielen |
-| 51 | Dramatische Inszenierung von Ja- und Neinsager  {{< br >}}Abschlussfeier
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TAG
+{{< thclose >}}
+{{< thopen >}}
+Aktivitäten
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to course  
+Warm-up + review of conversational past (present perfect tense)  
+Introduction to Chapter 9 dialogues
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Kapitel 9: Dialoge, Variationen  
+Grammatik: Adjektivendungen (attributive adjectives), Übungen 1-7, S. 257-259  
+Gruppenarbeit A, B, S. 270
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Diskussion zum Ökologie-Video  
+Fr. 7.2. Grammatik: Adverben, Ordinalzahlen (adverbs, ordinals), Übungen 8-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Lyrik zum Vorlesen: _Die Lorelei 1973_ (S. 252) + _Die Lorelei_ (S. 219)  
+Gruppenarbeit C (Bildbeschreibung), D, E, S. 270-271  
+Einführung zum Lesestück: _Unsere Umwelt in Gefahr_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lesestück: _Unsere Umwelt in Gefahr_  
+Grammatikwiederholung: Adjektivendungen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Vokabeltest: Kapitel 9  
+Gruppenarbeit: Hausmüllentsorgung  
+Einführung zu Kapitel 10: Dialoge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Kapitel 10: Dialoge, Variationen  
+Grammatik: Präteritum (simple past) – weak and strong verbs, Übungen 1-3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lyrik zum Vorlesen von Bertolt Brecht, S. 280  
+Grammatik: Präteritum – modals, mixed verbs, _haben, werden, als, wenn, wann_  
+Übungen 4-9, S. 285-288; A, S. 300 (Adjektivendungen)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: Plusquamperfekt (past perfect), Zeitausdrücke + Übungen  
+Gruppenspiel B: _Wer war ich_?  
+Gruppenarbeit D, S. 301
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Wiederholung: Präteritum, Plusquamperfekt (alle Verben)  
+Fr, 21.2. Einführung zum Lesestück: _Besuch einer Ausstellung_ (Wortschatz)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Lesestück: _Besuch einer Ausstellung historischer Plakate_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Vokabeltest: Kapitel 10  
+Di, 25.2. Situationen aus dem Alltag: _Die Politik_  
+Wiederholung Kapitel 9+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Prüfung zu Kapitel 9+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Großmutter-Geschichten erzählen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Der Froschkönig_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Kapitel 11: Dialoge, Variationen  
+Grammatik: Reflexiv-Verben  
+Gruppenarbeit B, S. 333
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: Dativ-Pronomen (+ body, clothing) + Übungen  
+Situationen aus dem Alltag: _Morgenroutine_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: Adjektive als Substantive, Adjectives and pronouns of indefinite number,  
+_bei, die 90er  
+_Übung E, S. 334  
+Lyrik zum Vorlesen: _Das Lied der Deutschen  
+_Einführung zum Lesestück_: Deutschland im europäischen Haus_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Lesestück: _Deutschland im europäischen Haus_  
+Die Deutschlandkarte (Arbeitsblatt)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Vokabeltest: Kapitel 11  
+Diskussion: BRD heute, gestern und morgen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+LITERATUR EINS - Kafka: _Drei Parabeln_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Kapitel 12: Dialoge, Variationen  
+Grammatik: Komparativform und Superlativform von Adjektiven und Adverbien
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: Komparativform und Superlativform (Fortsetzung)  
+Relativsätze (Einführung)  
+Gruppenarbeit A, C, S. 365
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: Relativsätze (Fortsetzung)  
+Übung E, S. 365  
+Einführung zum Lesestück: _Zwei Denkmäler_ von Anna Seghers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Lesestück: _Zwei Denkmäler_ von Anna Seghers (Fortsetzung)  
+Grammatik: _lassen, mal,_ Tageszeiten
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Vokabeltest: Kapitel 12  
+Ihre Geschichte über das Kind in der Geschichte von Anna Seghers.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Wiederholung von Kapitel 11 und 12  
+_Heimweh_ – Joseph von Eichendorff
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Prüfung: Kapitel 11+12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Kapitel 13: Dialoge + Variation C  
+Grammatik: Verben + Präpositionen, _Üben wir_! Nr. 1-6, 9, 10  
+(da-, wo- compounds)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Wiederholung der Verben + Präpositionen  
+Grammatik: Futur  
+Schreiben: im Arbeitsheft S. 392-393, Übungen B, C, D
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: _wanting x to do y  
+_Lyrik zum Vorlesen: nachwort von Eugen Gomringer  
+Vorbereitung auf das Lesestück: Zwei Schweizer, Wortschatz 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Lesestück: _Zwei Schweizer stellen ihre Heimat vor  
+_Kurswebsite: Informationen über die Schweiz  
+Video: Interviews mit Schweizern aus zwei Kantonen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+_Der Erfinder_ von Peter Bichsel
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Vokabeltest: Kapitel 13  
+Eigene Gedichte nach Gomringer  
+Kapitel 14 Dialoge – Einstieg
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Kapitel 14: Dialoge  
+Variationen C, D  
+Grammatik: Konjunktiv II (general subjunctive)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: Konjunktiv II (Fortsetzung)  
+Unreale Bedingungssätze, Wünsche, Höflichkeit, als ob + Konjunktiv II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Lesestück: _Zwei Österreicher stellen sich vor_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Lyrik zum Vorlesen: _otto mops_ und andere Gedichte von Ernst Jandl  
+Höflichkeitsform: Bestellen im Restaurant, nach Informationen fragen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Vokabeltest: Kapitel 14  
+Wiederholung: Kapitel 13+14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+Prüfung: Kapitel 13+14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+Kapitel 15: Dialoge  
+Variationen: A, B, C  
+Grammatik: Konjunktiv II Perfekt (general subjunctive – perfect tense)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: hin-, her-, Partizip Präsens als Adjektiv
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: Passiv, Passiv mit Modalverben  
+Lesestück: Ich bin das andere Kind von Zafer Senoçak
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+Lesestück (Fortsetzung)  
+Grammatik: Passiv (Fortsetzung)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+{{< tdopen >}}
+Vokabeltest: Kapitel 15  
+Kapitel 16: Dialoge  
+Grammatik: Impersonal Passive
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+46
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: Subjective use of modals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+47
+{{< tdclose >}}
+{{< tdopen >}}
+Grammatik: Extended Modifiers  
+Wiederholung der Grammatik von Kapitel 15+16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+{{< tdopen >}}
+Prüfung zu Kapitel 15+16  
+(Grammatik, Vokabeln, Lesestück von Senoçak)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+49
+{{< tdclose >}}
+{{< tdopen >}}
+_Der Jasager_ von Bertolt Brecht  
+Grammatik: Indirekte Rede + Konjunktiv I (= Special Subjunctive)  
+Dramatisches Lesen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+_Der Neinsager_ von Bertolt Brecht  
+Grammatik: Indirekte Rede + Konjunktiv I (Fortsetzung)  
+Dramatisches Spielen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+51
+{{< tdclose >}}
+{{< tdopen >}}
+Dramatische Inszenierung von Ja- und Neinsager  
+Abschlussfeier
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
